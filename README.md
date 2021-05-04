@@ -10,6 +10,7 @@ This project was built using react native and expo CLI, with the open food facts
 - https://github.com/OmarATARI/EasyScan code was used to get my scanner working with the database after multiple attempts to do so failed
 
 **Screenshots of the final MVP build:**
+
 ![image](https://user-images.githubusercontent.com/83166765/117047603-fadc8900-ad09-11eb-8b35-9134d755932c.png)
 ![image](https://user-images.githubusercontent.com/83166765/117047618-ffa13d00-ad09-11eb-976e-7f57e63ab5cf.png)
 ![image](https://user-images.githubusercontent.com/83166765/117047621-016b0080-ad0a-11eb-91ff-7a1fb20e35a7.png)
