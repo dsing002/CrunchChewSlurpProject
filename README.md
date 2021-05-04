@@ -10,22 +10,14 @@ This project was built using react native and expo CLI, with the open food facts
 - https://github.com/OmarATARI/EasyScan code was used to get my scanner working with the database after multiple attempts to do so failed
 
 **Screenshots of the final MVP build:**
-Register/Login option page:
 ![image](https://user-images.githubusercontent.com/83166765/117047603-fadc8900-ad09-11eb-8b35-9134d755932c.png)
-Register and Login pages:
 ![image](https://user-images.githubusercontent.com/83166765/117047618-ffa13d00-ad09-11eb-976e-7f57e63ab5cf.png)
 ![image](https://user-images.githubusercontent.com/83166765/117047621-016b0080-ad0a-11eb-91ff-7a1fb20e35a7.png)
-Homepage:
 ![image](https://user-images.githubusercontent.com/83166765/117047628-0465f100-ad0a-11eb-82cb-67a3310abaad.png)
-Edit profile page:
 ![image](https://user-images.githubusercontent.com/83166765/117047635-06c84b00-ad0a-11eb-860a-52ba747597c6.png)
-Scanner page (camera open):
 ![image](https://user-images.githubusercontent.com/83166765/117047643-092aa500-ad0a-11eb-967b-95eba8002cb8.png)
-Ingredients list:
 ![image](https://user-images.githubusercontent.com/83166765/117047661-0cbe2c00-ad0a-11eb-85d6-63fa7222eec3.png)
-Input Form:
 ![image](https://user-images.githubusercontent.com/83166765/117047673-0fb91c80-ad0a-11eb-8ef0-8191fe4e43aa.png)
-
 ![image](https://user-images.githubusercontent.com/83166765/117047679-121b7680-ad0a-11eb-9ee9-ebad65a18d83.png)
 ![image](https://user-images.githubusercontent.com/83166765/117047691-147dd080-ad0a-11eb-8f90-89a554b91e84.png)
 ![image](https://user-images.githubusercontent.com/83166765/117047709-1778c100-ad0a-11eb-88b8-c2997cdefb36.png)
