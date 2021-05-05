@@ -1,4 +1,5 @@
 **# CrunchChewSlurpProject
+
 Final year project by Darshan Singh (dsing002) at Goldsmiths University of London**
 
 Food allergy sufferers face major problems when eating out, As a result, this mobile phone application called Crunch Chew Slurp has been developed to tackle the problem with a lack of ingredients listed and inappropriate food labelling. The system works by allowing users to scan food products barcodes and reveal a full list of ingredients. With an allergy input form so the scanner can consider pre-existing allergies (although this is only experimental and currently does not work) and alert the consumer. While a forum/chat function will allow users to connect with likeminded allergy sufferers to help ease social anxiety, but currently only has placeholder code due to a lack of development time available for the final MVP that was made.
